@@ -12,7 +12,7 @@ Typescript implementation of Circular JSON library.
 
 ES6:
 ```
-import BetterJSON from '@mgiamberardino/better-json';
+import * as BetterJSON from '@mgiamberardino/better-json';
 
 const someCiruclarObj = [];
 someCiruclarObj[0] = someCiruclarObj;

@@ -1,3 +1,1 @@
-import BetterJSON from './json';
-
-export default BetterJSON;
+export * from './json';

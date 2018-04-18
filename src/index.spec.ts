@@ -1,4 +1,4 @@
-import BetterJSON from '.';
+import * as BetterJSON from '.';
 import * as expect from 'expect.js';
 
 describe('BetterJSON', () => {
